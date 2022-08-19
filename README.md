@@ -3,7 +3,7 @@ Transcribe, chapter, encode, and upload 360-degree mp4 files. See [Notion docume
 
 ### Getting Started
 
-First, create a `.env` file in the root directory and configure it with values from the api.video dashboard [dashboard](https://dashboard.api.video/apikeys)
+First, create a `.env` file in the root directory and configure it with values from the api.video [dashboard](https://dashboard.api.video/apikeys)
 Toggle between production and sandbox mode to get the API keys, then add them to the `.env` file: 
 
 ```
