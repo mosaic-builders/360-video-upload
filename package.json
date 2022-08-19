@@ -1,0 +1,22 @@
+{
+  "name": "mosaic-transcribe",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@api.video/nodejs-client": "^2.2.8",
+    "@api.video/video-uploader": "^1.0.11",
+    "@types/lodash": "^4.14.182",
+    "@types/node": "^17.0.36",
+    "@types/node-fetch": "^2.6.1",
+    "aws-sdk": "^2.1174.0",
+    "cli-progress": "^3.11.2",
+    "csv-writer": "^1.6.0",
+    "dotenv": "^16.0.1",
+    "gopro-telemetry": "^1.1.37",
+    "gpmf-extract": "^0.2.5",
+    "lodash": "^4.17.21",
+    "node-fetch": "2",
+    "ts-node": "^10.8.1"
+  }
+}
